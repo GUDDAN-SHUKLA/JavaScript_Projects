@@ -15,7 +15,7 @@ The **Review App** is a simple web application built using **HTML, CSS, and Java
 - **JavaScript**: Handles interactions such as adding and deleting reviews.
 
 ## Screenshot
-![image alt]()
+![image alt](https://github.com/GUDDAN-SHUKLA/JavaScript_Projects/blob/9aab7bcabf2217e84a9c0b97cb12186d64c34eae/ReviewsApp/reviewApp.png)
 
 ## How to Use
 1. Enter your **name** in the input field.
