@@ -3,7 +3,7 @@
 This is a simple calculator built using **HTML, CSS, and JavaScript**. The calculator provides basic arithmetic operations with a user-friendly UI.
 
 ## 🖼️ Project Preview
-![Calculator Preview](FireShot_Capture_044_JS_Calculator.png)
+![image alt](https://github.com/GUDDAN-SHUKLA/JavaScript_Projects/blob/60264fad47c471d2bfadb50717fd680585e6dedb/Calculator/JS_Calculator.png)
 
 ## 🚀 Technologies Used
 - **HTML**: Structure of the calculator
